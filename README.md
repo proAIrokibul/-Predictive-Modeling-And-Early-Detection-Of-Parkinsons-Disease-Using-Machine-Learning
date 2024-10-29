@@ -1,4 +1,4 @@
-# Parkinson's Disease Classification
+# Predictive Modeling And Early Detection Of Parkinsons Disease Using Machine Learning
 
 ## Overview
 This project aims to classify individuals as healthy or diagnosed with Parkinson's disease based on vocal feature data. The dataset comprises various acoustic measurements that capture voice characteristics, which are crucial for detecting subtle changes related to Parkinson's disease.
